@@ -1,2 +1,5 @@
-# JanOlejek.OnlineTest
+# How to run
+```shell
+dotnet test
+```
  
